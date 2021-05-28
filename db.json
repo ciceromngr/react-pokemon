@@ -1,0 +1,5356 @@
+{
+  "pokemon": [
+    {
+      "id": 1,
+      "nome": "bulbasaur",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "overgrow",
+            "url": "https://pokeapi.co/api/v2/ability/65/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "chlorophyll",
+            "url": "https://pokeapi.co/api/v2/ability/34/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nome": "ivysaur",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "overgrow",
+            "url": "https://pokeapi.co/api/v2/ability/65/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "chlorophyll",
+            "url": "https://pokeapi.co/api/v2/ability/34/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "nome": "venusaur",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "overgrow",
+            "url": "https://pokeapi.co/api/v2/ability/65/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "chlorophyll",
+            "url": "https://pokeapi.co/api/v2/ability/34/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "nome": "charmander",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "blaze",
+            "url": "https://pokeapi.co/api/v2/ability/66/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "solar-power",
+            "url": "https://pokeapi.co/api/v2/ability/94/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "nome": "charmeleon",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "blaze",
+            "url": "https://pokeapi.co/api/v2/ability/66/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "solar-power",
+            "url": "https://pokeapi.co/api/v2/ability/94/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "nome": "charizard",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "blaze",
+            "url": "https://pokeapi.co/api/v2/ability/66/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "solar-power",
+            "url": "https://pokeapi.co/api/v2/ability/94/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "nome": "squirtle",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "torrent",
+            "url": "https://pokeapi.co/api/v2/ability/67/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "rain-dish",
+            "url": "https://pokeapi.co/api/v2/ability/44/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "nome": "wartortle",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "torrent",
+            "url": "https://pokeapi.co/api/v2/ability/67/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "rain-dish",
+            "url": "https://pokeapi.co/api/v2/ability/44/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "nome": "blastoise",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "torrent",
+            "url": "https://pokeapi.co/api/v2/ability/67/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "rain-dish",
+            "url": "https://pokeapi.co/api/v2/ability/44/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "nome": "caterpie",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "shield-dust",
+            "url": "https://pokeapi.co/api/v2/ability/19/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "run-away",
+            "url": "https://pokeapi.co/api/v2/ability/50/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "nome": "metapod",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "shed-skin",
+            "url": "https://pokeapi.co/api/v2/ability/61/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "nome": "butterfree",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "compound-eyes",
+            "url": "https://pokeapi.co/api/v2/ability/14/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "tinted-lens",
+            "url": "https://pokeapi.co/api/v2/ability/110/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "nome": "weedle",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "shield-dust",
+            "url": "https://pokeapi.co/api/v2/ability/19/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "run-away",
+            "url": "https://pokeapi.co/api/v2/ability/50/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "nome": "kakuna",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "shed-skin",
+            "url": "https://pokeapi.co/api/v2/ability/61/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "nome": "beedrill",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "swarm",
+            "url": "https://pokeapi.co/api/v2/ability/68/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "sniper",
+            "url": "https://pokeapi.co/api/v2/ability/97/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "nome": "pidgey",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "keen-eye",
+            "url": "https://pokeapi.co/api/v2/ability/51/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "tangled-feet",
+            "url": "https://pokeapi.co/api/v2/ability/77/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "big-pecks",
+            "url": "https://pokeapi.co/api/v2/ability/145/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "nome": "pidgeotto",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "keen-eye",
+            "url": "https://pokeapi.co/api/v2/ability/51/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "tangled-feet",
+            "url": "https://pokeapi.co/api/v2/ability/77/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "big-pecks",
+            "url": "https://pokeapi.co/api/v2/ability/145/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "nome": "pidgeot",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "keen-eye",
+            "url": "https://pokeapi.co/api/v2/ability/51/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "tangled-feet",
+            "url": "https://pokeapi.co/api/v2/ability/77/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "big-pecks",
+            "url": "https://pokeapi.co/api/v2/ability/145/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "nome": "rattata",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "run-away",
+            "url": "https://pokeapi.co/api/v2/ability/50/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "guts",
+            "url": "https://pokeapi.co/api/v2/ability/62/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "hustle",
+            "url": "https://pokeapi.co/api/v2/ability/55/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "nome": "raticate",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "run-away",
+            "url": "https://pokeapi.co/api/v2/ability/50/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "guts",
+            "url": "https://pokeapi.co/api/v2/ability/62/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "hustle",
+            "url": "https://pokeapi.co/api/v2/ability/55/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "nome": "spearow",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "keen-eye",
+            "url": "https://pokeapi.co/api/v2/ability/51/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "sniper",
+            "url": "https://pokeapi.co/api/v2/ability/97/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "nome": "fearow",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "keen-eye",
+            "url": "https://pokeapi.co/api/v2/ability/51/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "sniper",
+            "url": "https://pokeapi.co/api/v2/ability/97/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "nome": "ekans",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "intimidate",
+            "url": "https://pokeapi.co/api/v2/ability/22/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "shed-skin",
+            "url": "https://pokeapi.co/api/v2/ability/61/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "unnerve",
+            "url": "https://pokeapi.co/api/v2/ability/127/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "nome": "arbok",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "intimidate",
+            "url": "https://pokeapi.co/api/v2/ability/22/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "shed-skin",
+            "url": "https://pokeapi.co/api/v2/ability/61/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "unnerve",
+            "url": "https://pokeapi.co/api/v2/ability/127/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "nome": "pikachu",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "static",
+            "url": "https://pokeapi.co/api/v2/ability/9/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "lightning-rod",
+            "url": "https://pokeapi.co/api/v2/ability/31/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "nome": "raichu",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "static",
+            "url": "https://pokeapi.co/api/v2/ability/9/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "lightning-rod",
+            "url": "https://pokeapi.co/api/v2/ability/31/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "nome": "sandshrew",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "sand-veil",
+            "url": "https://pokeapi.co/api/v2/ability/8/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "sand-rush",
+            "url": "https://pokeapi.co/api/v2/ability/146/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "nome": "sandslash",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "sand-veil",
+            "url": "https://pokeapi.co/api/v2/ability/8/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "sand-rush",
+            "url": "https://pokeapi.co/api/v2/ability/146/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "nome": "nidoran-f",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "poison-point",
+            "url": "https://pokeapi.co/api/v2/ability/38/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "rivalry",
+            "url": "https://pokeapi.co/api/v2/ability/79/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "hustle",
+            "url": "https://pokeapi.co/api/v2/ability/55/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "nome": "nidorina",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "poison-point",
+            "url": "https://pokeapi.co/api/v2/ability/38/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "rivalry",
+            "url": "https://pokeapi.co/api/v2/ability/79/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "hustle",
+            "url": "https://pokeapi.co/api/v2/ability/55/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "nome": "nidoqueen",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "poison-point",
+            "url": "https://pokeapi.co/api/v2/ability/38/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "rivalry",
+            "url": "https://pokeapi.co/api/v2/ability/79/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "sheer-force",
+            "url": "https://pokeapi.co/api/v2/ability/125/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "nome": "nidoran-m",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "poison-point",
+            "url": "https://pokeapi.co/api/v2/ability/38/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "rivalry",
+            "url": "https://pokeapi.co/api/v2/ability/79/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "hustle",
+            "url": "https://pokeapi.co/api/v2/ability/55/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "nome": "nidorino",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "poison-point",
+            "url": "https://pokeapi.co/api/v2/ability/38/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "rivalry",
+            "url": "https://pokeapi.co/api/v2/ability/79/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "hustle",
+            "url": "https://pokeapi.co/api/v2/ability/55/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "nome": "nidoking",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "poison-point",
+            "url": "https://pokeapi.co/api/v2/ability/38/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "rivalry",
+            "url": "https://pokeapi.co/api/v2/ability/79/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "sheer-force",
+            "url": "https://pokeapi.co/api/v2/ability/125/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "nome": "clefairy",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "cute-charm",
+            "url": "https://pokeapi.co/api/v2/ability/56/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "magic-guard",
+            "url": "https://pokeapi.co/api/v2/ability/98/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "friend-guard",
+            "url": "https://pokeapi.co/api/v2/ability/132/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "nome": "clefable",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "cute-charm",
+            "url": "https://pokeapi.co/api/v2/ability/56/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "magic-guard",
+            "url": "https://pokeapi.co/api/v2/ability/98/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "unaware",
+            "url": "https://pokeapi.co/api/v2/ability/109/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "nome": "vulpix",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "flash-fire",
+            "url": "https://pokeapi.co/api/v2/ability/18/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "drought",
+            "url": "https://pokeapi.co/api/v2/ability/70/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "nome": "ninetales",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "flash-fire",
+            "url": "https://pokeapi.co/api/v2/ability/18/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "drought",
+            "url": "https://pokeapi.co/api/v2/ability/70/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "nome": "jigglypuff",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "cute-charm",
+            "url": "https://pokeapi.co/api/v2/ability/56/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "competitive",
+            "url": "https://pokeapi.co/api/v2/ability/172/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "friend-guard",
+            "url": "https://pokeapi.co/api/v2/ability/132/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "nome": "wigglytuff",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "cute-charm",
+            "url": "https://pokeapi.co/api/v2/ability/56/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "competitive",
+            "url": "https://pokeapi.co/api/v2/ability/172/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "frisk",
+            "url": "https://pokeapi.co/api/v2/ability/119/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "nome": "zubat",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "inner-focus",
+            "url": "https://pokeapi.co/api/v2/ability/39/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "infiltrator",
+            "url": "https://pokeapi.co/api/v2/ability/151/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "nome": "golbat",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "inner-focus",
+            "url": "https://pokeapi.co/api/v2/ability/39/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "infiltrator",
+            "url": "https://pokeapi.co/api/v2/ability/151/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "nome": "oddish",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "chlorophyll",
+            "url": "https://pokeapi.co/api/v2/ability/34/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "run-away",
+            "url": "https://pokeapi.co/api/v2/ability/50/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "nome": "gloom",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "chlorophyll",
+            "url": "https://pokeapi.co/api/v2/ability/34/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "stench",
+            "url": "https://pokeapi.co/api/v2/ability/1/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "nome": "vileplume",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "chlorophyll",
+            "url": "https://pokeapi.co/api/v2/ability/34/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "effect-spore",
+            "url": "https://pokeapi.co/api/v2/ability/27/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "nome": "paras",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "effect-spore",
+            "url": "https://pokeapi.co/api/v2/ability/27/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "dry-skin",
+            "url": "https://pokeapi.co/api/v2/ability/87/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "damp",
+            "url": "https://pokeapi.co/api/v2/ability/6/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "nome": "parasect",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "effect-spore",
+            "url": "https://pokeapi.co/api/v2/ability/27/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "dry-skin",
+            "url": "https://pokeapi.co/api/v2/ability/87/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "damp",
+            "url": "https://pokeapi.co/api/v2/ability/6/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "nome": "venonat",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "compound-eyes",
+            "url": "https://pokeapi.co/api/v2/ability/14/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "tinted-lens",
+            "url": "https://pokeapi.co/api/v2/ability/110/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "run-away",
+            "url": "https://pokeapi.co/api/v2/ability/50/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "nome": "venomoth",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "shield-dust",
+            "url": "https://pokeapi.co/api/v2/ability/19/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "tinted-lens",
+            "url": "https://pokeapi.co/api/v2/ability/110/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "wonder-skin",
+            "url": "https://pokeapi.co/api/v2/ability/147/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "nome": "diglett",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "sand-veil",
+            "url": "https://pokeapi.co/api/v2/ability/8/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "arena-trap",
+            "url": "https://pokeapi.co/api/v2/ability/71/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "sand-force",
+            "url": "https://pokeapi.co/api/v2/ability/159/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "nome": "dugtrio",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "sand-veil",
+            "url": "https://pokeapi.co/api/v2/ability/8/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "arena-trap",
+            "url": "https://pokeapi.co/api/v2/ability/71/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "sand-force",
+            "url": "https://pokeapi.co/api/v2/ability/159/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "nome": "meowth",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "pickup",
+            "url": "https://pokeapi.co/api/v2/ability/53/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "technician",
+            "url": "https://pokeapi.co/api/v2/ability/101/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "unnerve",
+            "url": "https://pokeapi.co/api/v2/ability/127/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "nome": "persian",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "limber",
+            "url": "https://pokeapi.co/api/v2/ability/7/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "technician",
+            "url": "https://pokeapi.co/api/v2/ability/101/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "unnerve",
+            "url": "https://pokeapi.co/api/v2/ability/127/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "nome": "psyduck",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "damp",
+            "url": "https://pokeapi.co/api/v2/ability/6/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "cloud-nine",
+            "url": "https://pokeapi.co/api/v2/ability/13/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "swift-swim",
+            "url": "https://pokeapi.co/api/v2/ability/33/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "nome": "golduck",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "damp",
+            "url": "https://pokeapi.co/api/v2/ability/6/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "cloud-nine",
+            "url": "https://pokeapi.co/api/v2/ability/13/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "swift-swim",
+            "url": "https://pokeapi.co/api/v2/ability/33/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "nome": "mankey",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "vital-spirit",
+            "url": "https://pokeapi.co/api/v2/ability/72/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "anger-point",
+            "url": "https://pokeapi.co/api/v2/ability/83/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "defiant",
+            "url": "https://pokeapi.co/api/v2/ability/128/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "nome": "primeape",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "vital-spirit",
+            "url": "https://pokeapi.co/api/v2/ability/72/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "anger-point",
+            "url": "https://pokeapi.co/api/v2/ability/83/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "defiant",
+            "url": "https://pokeapi.co/api/v2/ability/128/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "nome": "growlithe",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "intimidate",
+            "url": "https://pokeapi.co/api/v2/ability/22/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "flash-fire",
+            "url": "https://pokeapi.co/api/v2/ability/18/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "justified",
+            "url": "https://pokeapi.co/api/v2/ability/154/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "nome": "arcanine",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "intimidate",
+            "url": "https://pokeapi.co/api/v2/ability/22/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "flash-fire",
+            "url": "https://pokeapi.co/api/v2/ability/18/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "justified",
+            "url": "https://pokeapi.co/api/v2/ability/154/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "nome": "poliwag",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "water-absorb",
+            "url": "https://pokeapi.co/api/v2/ability/11/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "damp",
+            "url": "https://pokeapi.co/api/v2/ability/6/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "swift-swim",
+            "url": "https://pokeapi.co/api/v2/ability/33/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "nome": "poliwhirl",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "water-absorb",
+            "url": "https://pokeapi.co/api/v2/ability/11/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "damp",
+            "url": "https://pokeapi.co/api/v2/ability/6/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "swift-swim",
+            "url": "https://pokeapi.co/api/v2/ability/33/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "nome": "poliwrath",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "water-absorb",
+            "url": "https://pokeapi.co/api/v2/ability/11/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "damp",
+            "url": "https://pokeapi.co/api/v2/ability/6/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "swift-swim",
+            "url": "https://pokeapi.co/api/v2/ability/33/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "nome": "abra",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "synchronize",
+            "url": "https://pokeapi.co/api/v2/ability/28/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "inner-focus",
+            "url": "https://pokeapi.co/api/v2/ability/39/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "magic-guard",
+            "url": "https://pokeapi.co/api/v2/ability/98/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "nome": "kadabra",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "synchronize",
+            "url": "https://pokeapi.co/api/v2/ability/28/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "inner-focus",
+            "url": "https://pokeapi.co/api/v2/ability/39/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "magic-guard",
+            "url": "https://pokeapi.co/api/v2/ability/98/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "nome": "alakazam",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "synchronize",
+            "url": "https://pokeapi.co/api/v2/ability/28/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "inner-focus",
+            "url": "https://pokeapi.co/api/v2/ability/39/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "magic-guard",
+            "url": "https://pokeapi.co/api/v2/ability/98/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "nome": "machop",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "guts",
+            "url": "https://pokeapi.co/api/v2/ability/62/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "no-guard",
+            "url": "https://pokeapi.co/api/v2/ability/99/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "steadfast",
+            "url": "https://pokeapi.co/api/v2/ability/80/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "nome": "machoke",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "guts",
+            "url": "https://pokeapi.co/api/v2/ability/62/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "no-guard",
+            "url": "https://pokeapi.co/api/v2/ability/99/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "steadfast",
+            "url": "https://pokeapi.co/api/v2/ability/80/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "nome": "machamp",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "guts",
+            "url": "https://pokeapi.co/api/v2/ability/62/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "no-guard",
+            "url": "https://pokeapi.co/api/v2/ability/99/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "steadfast",
+            "url": "https://pokeapi.co/api/v2/ability/80/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "nome": "bellsprout",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "chlorophyll",
+            "url": "https://pokeapi.co/api/v2/ability/34/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "gluttony",
+            "url": "https://pokeapi.co/api/v2/ability/82/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "nome": "weepinbell",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "chlorophyll",
+            "url": "https://pokeapi.co/api/v2/ability/34/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "gluttony",
+            "url": "https://pokeapi.co/api/v2/ability/82/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "nome": "victreebel",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "chlorophyll",
+            "url": "https://pokeapi.co/api/v2/ability/34/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "gluttony",
+            "url": "https://pokeapi.co/api/v2/ability/82/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "nome": "tentacool",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "clear-body",
+            "url": "https://pokeapi.co/api/v2/ability/29/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "liquid-ooze",
+            "url": "https://pokeapi.co/api/v2/ability/64/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "rain-dish",
+            "url": "https://pokeapi.co/api/v2/ability/44/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "nome": "tentacruel",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "clear-body",
+            "url": "https://pokeapi.co/api/v2/ability/29/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "liquid-ooze",
+            "url": "https://pokeapi.co/api/v2/ability/64/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "rain-dish",
+            "url": "https://pokeapi.co/api/v2/ability/44/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "nome": "geodude",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "rock-head",
+            "url": "https://pokeapi.co/api/v2/ability/69/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "sturdy",
+            "url": "https://pokeapi.co/api/v2/ability/5/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "sand-veil",
+            "url": "https://pokeapi.co/api/v2/ability/8/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "nome": "graveler",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "rock-head",
+            "url": "https://pokeapi.co/api/v2/ability/69/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "sturdy",
+            "url": "https://pokeapi.co/api/v2/ability/5/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "sand-veil",
+            "url": "https://pokeapi.co/api/v2/ability/8/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "nome": "golem",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "rock-head",
+            "url": "https://pokeapi.co/api/v2/ability/69/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "sturdy",
+            "url": "https://pokeapi.co/api/v2/ability/5/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "sand-veil",
+            "url": "https://pokeapi.co/api/v2/ability/8/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "nome": "ponyta",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "run-away",
+            "url": "https://pokeapi.co/api/v2/ability/50/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "flash-fire",
+            "url": "https://pokeapi.co/api/v2/ability/18/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "flame-body",
+            "url": "https://pokeapi.co/api/v2/ability/49/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "nome": "rapidash",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "run-away",
+            "url": "https://pokeapi.co/api/v2/ability/50/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "flash-fire",
+            "url": "https://pokeapi.co/api/v2/ability/18/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "flame-body",
+            "url": "https://pokeapi.co/api/v2/ability/49/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "nome": "slowpoke",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "oblivious",
+            "url": "https://pokeapi.co/api/v2/ability/12/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "own-tempo",
+            "url": "https://pokeapi.co/api/v2/ability/20/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "regenerator",
+            "url": "https://pokeapi.co/api/v2/ability/144/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "nome": "slowbro",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "oblivious",
+            "url": "https://pokeapi.co/api/v2/ability/12/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "own-tempo",
+            "url": "https://pokeapi.co/api/v2/ability/20/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "regenerator",
+            "url": "https://pokeapi.co/api/v2/ability/144/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "nome": "magnemite",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "magnet-pull",
+            "url": "https://pokeapi.co/api/v2/ability/42/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "sturdy",
+            "url": "https://pokeapi.co/api/v2/ability/5/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "analytic",
+            "url": "https://pokeapi.co/api/v2/ability/148/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "nome": "magneton",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "magnet-pull",
+            "url": "https://pokeapi.co/api/v2/ability/42/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "sturdy",
+            "url": "https://pokeapi.co/api/v2/ability/5/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "analytic",
+            "url": "https://pokeapi.co/api/v2/ability/148/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "nome": "farfetchd",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "keen-eye",
+            "url": "https://pokeapi.co/api/v2/ability/51/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "inner-focus",
+            "url": "https://pokeapi.co/api/v2/ability/39/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "defiant",
+            "url": "https://pokeapi.co/api/v2/ability/128/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "nome": "doduo",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "run-away",
+            "url": "https://pokeapi.co/api/v2/ability/50/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "early-bird",
+            "url": "https://pokeapi.co/api/v2/ability/48/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "tangled-feet",
+            "url": "https://pokeapi.co/api/v2/ability/77/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "nome": "dodrio",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "run-away",
+            "url": "https://pokeapi.co/api/v2/ability/50/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "early-bird",
+            "url": "https://pokeapi.co/api/v2/ability/48/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "tangled-feet",
+            "url": "https://pokeapi.co/api/v2/ability/77/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "nome": "seel",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "thick-fat",
+            "url": "https://pokeapi.co/api/v2/ability/47/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "hydration",
+            "url": "https://pokeapi.co/api/v2/ability/93/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "ice-body",
+            "url": "https://pokeapi.co/api/v2/ability/115/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "nome": "dewgong",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "thick-fat",
+            "url": "https://pokeapi.co/api/v2/ability/47/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "hydration",
+            "url": "https://pokeapi.co/api/v2/ability/93/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "ice-body",
+            "url": "https://pokeapi.co/api/v2/ability/115/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "nome": "grimer",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "stench",
+            "url": "https://pokeapi.co/api/v2/ability/1/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "sticky-hold",
+            "url": "https://pokeapi.co/api/v2/ability/60/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "poison-touch",
+            "url": "https://pokeapi.co/api/v2/ability/143/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "nome": "muk",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "stench",
+            "url": "https://pokeapi.co/api/v2/ability/1/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "sticky-hold",
+            "url": "https://pokeapi.co/api/v2/ability/60/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "poison-touch",
+            "url": "https://pokeapi.co/api/v2/ability/143/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "nome": "shellder",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "shell-armor",
+            "url": "https://pokeapi.co/api/v2/ability/75/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "skill-link",
+            "url": "https://pokeapi.co/api/v2/ability/92/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "overcoat",
+            "url": "https://pokeapi.co/api/v2/ability/142/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "nome": "cloyster",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "shell-armor",
+            "url": "https://pokeapi.co/api/v2/ability/75/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "skill-link",
+            "url": "https://pokeapi.co/api/v2/ability/92/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "overcoat",
+            "url": "https://pokeapi.co/api/v2/ability/142/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "nome": "gastly",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "levitate",
+            "url": "https://pokeapi.co/api/v2/ability/26/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "nome": "haunter",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "levitate",
+            "url": "https://pokeapi.co/api/v2/ability/26/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "nome": "gengar",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "cursed-body",
+            "url": "https://pokeapi.co/api/v2/ability/130/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "nome": "onix",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "rock-head",
+            "url": "https://pokeapi.co/api/v2/ability/69/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "sturdy",
+            "url": "https://pokeapi.co/api/v2/ability/5/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "weak-armor",
+            "url": "https://pokeapi.co/api/v2/ability/133/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "nome": "drowzee",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "insomnia",
+            "url": "https://pokeapi.co/api/v2/ability/15/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "forewarn",
+            "url": "https://pokeapi.co/api/v2/ability/108/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "inner-focus",
+            "url": "https://pokeapi.co/api/v2/ability/39/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "nome": "hypno",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "insomnia",
+            "url": "https://pokeapi.co/api/v2/ability/15/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "forewarn",
+            "url": "https://pokeapi.co/api/v2/ability/108/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "inner-focus",
+            "url": "https://pokeapi.co/api/v2/ability/39/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "nome": "krabby",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "hyper-cutter",
+            "url": "https://pokeapi.co/api/v2/ability/52/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "shell-armor",
+            "url": "https://pokeapi.co/api/v2/ability/75/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "sheer-force",
+            "url": "https://pokeapi.co/api/v2/ability/125/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "nome": "kingler",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "hyper-cutter",
+            "url": "https://pokeapi.co/api/v2/ability/52/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "shell-armor",
+            "url": "https://pokeapi.co/api/v2/ability/75/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "sheer-force",
+            "url": "https://pokeapi.co/api/v2/ability/125/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "nome": "voltorb",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "soundproof",
+            "url": "https://pokeapi.co/api/v2/ability/43/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "static",
+            "url": "https://pokeapi.co/api/v2/ability/9/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "aftermath",
+            "url": "https://pokeapi.co/api/v2/ability/106/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "nome": "electrode",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "soundproof",
+            "url": "https://pokeapi.co/api/v2/ability/43/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "static",
+            "url": "https://pokeapi.co/api/v2/ability/9/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "aftermath",
+            "url": "https://pokeapi.co/api/v2/ability/106/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "nome": "exeggcute",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "chlorophyll",
+            "url": "https://pokeapi.co/api/v2/ability/34/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "harvest",
+            "url": "https://pokeapi.co/api/v2/ability/139/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "nome": "exeggutor",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "chlorophyll",
+            "url": "https://pokeapi.co/api/v2/ability/34/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "harvest",
+            "url": "https://pokeapi.co/api/v2/ability/139/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "nome": "cubone",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "rock-head",
+            "url": "https://pokeapi.co/api/v2/ability/69/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "lightning-rod",
+            "url": "https://pokeapi.co/api/v2/ability/31/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "battle-armor",
+            "url": "https://pokeapi.co/api/v2/ability/4/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "nome": "marowak",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "rock-head",
+            "url": "https://pokeapi.co/api/v2/ability/69/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "lightning-rod",
+            "url": "https://pokeapi.co/api/v2/ability/31/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "battle-armor",
+            "url": "https://pokeapi.co/api/v2/ability/4/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "nome": "hitmonlee",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "limber",
+            "url": "https://pokeapi.co/api/v2/ability/7/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "reckless",
+            "url": "https://pokeapi.co/api/v2/ability/120/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "unburden",
+            "url": "https://pokeapi.co/api/v2/ability/84/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "nome": "hitmonchan",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "keen-eye",
+            "url": "https://pokeapi.co/api/v2/ability/51/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "iron-fist",
+            "url": "https://pokeapi.co/api/v2/ability/89/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "inner-focus",
+            "url": "https://pokeapi.co/api/v2/ability/39/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "nome": "lickitung",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "own-tempo",
+            "url": "https://pokeapi.co/api/v2/ability/20/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "oblivious",
+            "url": "https://pokeapi.co/api/v2/ability/12/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "cloud-nine",
+            "url": "https://pokeapi.co/api/v2/ability/13/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "nome": "koffing",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "levitate",
+            "url": "https://pokeapi.co/api/v2/ability/26/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "nome": "weezing",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "levitate",
+            "url": "https://pokeapi.co/api/v2/ability/26/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "nome": "rhyhorn",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "lightning-rod",
+            "url": "https://pokeapi.co/api/v2/ability/31/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "rock-head",
+            "url": "https://pokeapi.co/api/v2/ability/69/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "reckless",
+            "url": "https://pokeapi.co/api/v2/ability/120/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "nome": "rhydon",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "lightning-rod",
+            "url": "https://pokeapi.co/api/v2/ability/31/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "rock-head",
+            "url": "https://pokeapi.co/api/v2/ability/69/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "reckless",
+            "url": "https://pokeapi.co/api/v2/ability/120/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "nome": "chansey",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "natural-cure",
+            "url": "https://pokeapi.co/api/v2/ability/30/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "serene-grace",
+            "url": "https://pokeapi.co/api/v2/ability/32/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "healer",
+            "url": "https://pokeapi.co/api/v2/ability/131/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "nome": "tangela",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "chlorophyll",
+            "url": "https://pokeapi.co/api/v2/ability/34/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "leaf-guard",
+            "url": "https://pokeapi.co/api/v2/ability/102/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "regenerator",
+            "url": "https://pokeapi.co/api/v2/ability/144/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "nome": "kangaskhan",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "early-bird",
+            "url": "https://pokeapi.co/api/v2/ability/48/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "scrappy",
+            "url": "https://pokeapi.co/api/v2/ability/113/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "inner-focus",
+            "url": "https://pokeapi.co/api/v2/ability/39/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "nome": "horsea",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "swift-swim",
+            "url": "https://pokeapi.co/api/v2/ability/33/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "sniper",
+            "url": "https://pokeapi.co/api/v2/ability/97/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "damp",
+            "url": "https://pokeapi.co/api/v2/ability/6/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "nome": "seadra",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "poison-point",
+            "url": "https://pokeapi.co/api/v2/ability/38/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "sniper",
+            "url": "https://pokeapi.co/api/v2/ability/97/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "damp",
+            "url": "https://pokeapi.co/api/v2/ability/6/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "nome": "goldeen",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "swift-swim",
+            "url": "https://pokeapi.co/api/v2/ability/33/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "water-veil",
+            "url": "https://pokeapi.co/api/v2/ability/41/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "lightning-rod",
+            "url": "https://pokeapi.co/api/v2/ability/31/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 119,
+      "nome": "seaking",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "swift-swim",
+            "url": "https://pokeapi.co/api/v2/ability/33/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "water-veil",
+            "url": "https://pokeapi.co/api/v2/ability/41/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "lightning-rod",
+            "url": "https://pokeapi.co/api/v2/ability/31/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "nome": "staryu",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "illuminate",
+            "url": "https://pokeapi.co/api/v2/ability/35/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "natural-cure",
+            "url": "https://pokeapi.co/api/v2/ability/30/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "analytic",
+            "url": "https://pokeapi.co/api/v2/ability/148/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "nome": "starmie",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "illuminate",
+            "url": "https://pokeapi.co/api/v2/ability/35/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "natural-cure",
+            "url": "https://pokeapi.co/api/v2/ability/30/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "analytic",
+            "url": "https://pokeapi.co/api/v2/ability/148/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 122,
+      "nome": "mr-mime",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "soundproof",
+            "url": "https://pokeapi.co/api/v2/ability/43/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "filter",
+            "url": "https://pokeapi.co/api/v2/ability/111/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "technician",
+            "url": "https://pokeapi.co/api/v2/ability/101/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "nome": "scyther",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "swarm",
+            "url": "https://pokeapi.co/api/v2/ability/68/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "technician",
+            "url": "https://pokeapi.co/api/v2/ability/101/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "steadfast",
+            "url": "https://pokeapi.co/api/v2/ability/80/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "nome": "jynx",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "oblivious",
+            "url": "https://pokeapi.co/api/v2/ability/12/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "forewarn",
+            "url": "https://pokeapi.co/api/v2/ability/108/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "dry-skin",
+            "url": "https://pokeapi.co/api/v2/ability/87/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 125,
+      "nome": "electabuzz",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "static",
+            "url": "https://pokeapi.co/api/v2/ability/9/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "vital-spirit",
+            "url": "https://pokeapi.co/api/v2/ability/72/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 126,
+      "nome": "magmar",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "flame-body",
+            "url": "https://pokeapi.co/api/v2/ability/49/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "vital-spirit",
+            "url": "https://pokeapi.co/api/v2/ability/72/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 127,
+      "nome": "pinsir",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "hyper-cutter",
+            "url": "https://pokeapi.co/api/v2/ability/52/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "mold-breaker",
+            "url": "https://pokeapi.co/api/v2/ability/104/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "moxie",
+            "url": "https://pokeapi.co/api/v2/ability/153/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 128,
+      "nome": "tauros",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "intimidate",
+            "url": "https://pokeapi.co/api/v2/ability/22/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "anger-point",
+            "url": "https://pokeapi.co/api/v2/ability/83/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "sheer-force",
+            "url": "https://pokeapi.co/api/v2/ability/125/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 129,
+      "nome": "magikarp",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "swift-swim",
+            "url": "https://pokeapi.co/api/v2/ability/33/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "rattled",
+            "url": "https://pokeapi.co/api/v2/ability/155/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 130,
+      "nome": "gyarados",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "intimidate",
+            "url": "https://pokeapi.co/api/v2/ability/22/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "moxie",
+            "url": "https://pokeapi.co/api/v2/ability/153/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 131,
+      "nome": "lapras",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "water-absorb",
+            "url": "https://pokeapi.co/api/v2/ability/11/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "shell-armor",
+            "url": "https://pokeapi.co/api/v2/ability/75/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "hydration",
+            "url": "https://pokeapi.co/api/v2/ability/93/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 132,
+      "nome": "ditto",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "limber",
+            "url": "https://pokeapi.co/api/v2/ability/7/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "imposter",
+            "url": "https://pokeapi.co/api/v2/ability/150/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 133,
+      "nome": "eevee",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "run-away",
+            "url": "https://pokeapi.co/api/v2/ability/50/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "adaptability",
+            "url": "https://pokeapi.co/api/v2/ability/91/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "anticipation",
+            "url": "https://pokeapi.co/api/v2/ability/107/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 134,
+      "nome": "vaporeon",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "water-absorb",
+            "url": "https://pokeapi.co/api/v2/ability/11/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "hydration",
+            "url": "https://pokeapi.co/api/v2/ability/93/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 135,
+      "nome": "jolteon",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "volt-absorb",
+            "url": "https://pokeapi.co/api/v2/ability/10/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "quick-feet",
+            "url": "https://pokeapi.co/api/v2/ability/95/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 136,
+      "nome": "flareon",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "flash-fire",
+            "url": "https://pokeapi.co/api/v2/ability/18/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "guts",
+            "url": "https://pokeapi.co/api/v2/ability/62/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 137,
+      "nome": "porygon",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "trace",
+            "url": "https://pokeapi.co/api/v2/ability/36/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "download",
+            "url": "https://pokeapi.co/api/v2/ability/88/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "analytic",
+            "url": "https://pokeapi.co/api/v2/ability/148/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 138,
+      "nome": "omanyte",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "swift-swim",
+            "url": "https://pokeapi.co/api/v2/ability/33/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "shell-armor",
+            "url": "https://pokeapi.co/api/v2/ability/75/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "weak-armor",
+            "url": "https://pokeapi.co/api/v2/ability/133/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 139,
+      "nome": "omastar",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "swift-swim",
+            "url": "https://pokeapi.co/api/v2/ability/33/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "shell-armor",
+            "url": "https://pokeapi.co/api/v2/ability/75/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "weak-armor",
+            "url": "https://pokeapi.co/api/v2/ability/133/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 140,
+      "nome": "kabuto",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "swift-swim",
+            "url": "https://pokeapi.co/api/v2/ability/33/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "battle-armor",
+            "url": "https://pokeapi.co/api/v2/ability/4/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "weak-armor",
+            "url": "https://pokeapi.co/api/v2/ability/133/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 141,
+      "nome": "kabutops",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "swift-swim",
+            "url": "https://pokeapi.co/api/v2/ability/33/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "battle-armor",
+            "url": "https://pokeapi.co/api/v2/ability/4/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "weak-armor",
+            "url": "https://pokeapi.co/api/v2/ability/133/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 142,
+      "nome": "aerodactyl",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "rock-head",
+            "url": "https://pokeapi.co/api/v2/ability/69/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "pressure",
+            "url": "https://pokeapi.co/api/v2/ability/46/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "unnerve",
+            "url": "https://pokeapi.co/api/v2/ability/127/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 143,
+      "nome": "snorlax",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "immunity",
+            "url": "https://pokeapi.co/api/v2/ability/17/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "thick-fat",
+            "url": "https://pokeapi.co/api/v2/ability/47/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "gluttony",
+            "url": "https://pokeapi.co/api/v2/ability/82/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 144,
+      "nome": "articuno",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "pressure",
+            "url": "https://pokeapi.co/api/v2/ability/46/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "snow-cloak",
+            "url": "https://pokeapi.co/api/v2/ability/81/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 145,
+      "nome": "zapdos",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "pressure",
+            "url": "https://pokeapi.co/api/v2/ability/46/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "static",
+            "url": "https://pokeapi.co/api/v2/ability/9/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 146,
+      "nome": "moltres",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "pressure",
+            "url": "https://pokeapi.co/api/v2/ability/46/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "flame-body",
+            "url": "https://pokeapi.co/api/v2/ability/49/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 147,
+      "nome": "dratini",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "shed-skin",
+            "url": "https://pokeapi.co/api/v2/ability/61/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "marvel-scale",
+            "url": "https://pokeapi.co/api/v2/ability/63/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 148,
+      "nome": "dragonair",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "shed-skin",
+            "url": "https://pokeapi.co/api/v2/ability/61/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "marvel-scale",
+            "url": "https://pokeapi.co/api/v2/ability/63/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 149,
+      "nome": "dragonite",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "inner-focus",
+            "url": "https://pokeapi.co/api/v2/ability/39/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "multiscale",
+            "url": "https://pokeapi.co/api/v2/ability/136/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 150,
+      "nome": "mewtwo",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "pressure",
+            "url": "https://pokeapi.co/api/v2/ability/46/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "unnerve",
+            "url": "https://pokeapi.co/api/v2/ability/127/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 151,
+      "nome": "mew",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "synchronize",
+            "url": "https://pokeapi.co/api/v2/ability/28/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        }
+      ]
+    },
+    {
+      "id": 152,
+      "nome": "chikorita",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "overgrow",
+            "url": "https://pokeapi.co/api/v2/ability/65/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "leaf-guard",
+            "url": "https://pokeapi.co/api/v2/ability/102/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 153,
+      "nome": "bayleef",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "overgrow",
+            "url": "https://pokeapi.co/api/v2/ability/65/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "leaf-guard",
+            "url": "https://pokeapi.co/api/v2/ability/102/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 154,
+      "nome": "meganium",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "overgrow",
+            "url": "https://pokeapi.co/api/v2/ability/65/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "leaf-guard",
+            "url": "https://pokeapi.co/api/v2/ability/102/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 155,
+      "nome": "cyndaquil",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "blaze",
+            "url": "https://pokeapi.co/api/v2/ability/66/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "flash-fire",
+            "url": "https://pokeapi.co/api/v2/ability/18/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 156,
+      "nome": "quilava",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "blaze",
+            "url": "https://pokeapi.co/api/v2/ability/66/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "flash-fire",
+            "url": "https://pokeapi.co/api/v2/ability/18/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 157,
+      "nome": "typhlosion",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "blaze",
+            "url": "https://pokeapi.co/api/v2/ability/66/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "flash-fire",
+            "url": "https://pokeapi.co/api/v2/ability/18/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 158,
+      "nome": "totodile",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "torrent",
+            "url": "https://pokeapi.co/api/v2/ability/67/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "sheer-force",
+            "url": "https://pokeapi.co/api/v2/ability/125/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 159,
+      "nome": "croconaw",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "torrent",
+            "url": "https://pokeapi.co/api/v2/ability/67/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "sheer-force",
+            "url": "https://pokeapi.co/api/v2/ability/125/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 160,
+      "nome": "feraligatr",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "torrent",
+            "url": "https://pokeapi.co/api/v2/ability/67/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "sheer-force",
+            "url": "https://pokeapi.co/api/v2/ability/125/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 161,
+      "nome": "sentret",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "run-away",
+            "url": "https://pokeapi.co/api/v2/ability/50/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "keen-eye",
+            "url": "https://pokeapi.co/api/v2/ability/51/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "frisk",
+            "url": "https://pokeapi.co/api/v2/ability/119/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 162,
+      "nome": "furret",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "run-away",
+            "url": "https://pokeapi.co/api/v2/ability/50/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "keen-eye",
+            "url": "https://pokeapi.co/api/v2/ability/51/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "frisk",
+            "url": "https://pokeapi.co/api/v2/ability/119/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 163,
+      "nome": "hoothoot",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "insomnia",
+            "url": "https://pokeapi.co/api/v2/ability/15/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "keen-eye",
+            "url": "https://pokeapi.co/api/v2/ability/51/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "tinted-lens",
+            "url": "https://pokeapi.co/api/v2/ability/110/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 164,
+      "nome": "noctowl",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "insomnia",
+            "url": "https://pokeapi.co/api/v2/ability/15/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "keen-eye",
+            "url": "https://pokeapi.co/api/v2/ability/51/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "tinted-lens",
+            "url": "https://pokeapi.co/api/v2/ability/110/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 165,
+      "nome": "ledyba",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "swarm",
+            "url": "https://pokeapi.co/api/v2/ability/68/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "early-bird",
+            "url": "https://pokeapi.co/api/v2/ability/48/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "rattled",
+            "url": "https://pokeapi.co/api/v2/ability/155/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 166,
+      "nome": "ledian",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "swarm",
+            "url": "https://pokeapi.co/api/v2/ability/68/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "early-bird",
+            "url": "https://pokeapi.co/api/v2/ability/48/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "iron-fist",
+            "url": "https://pokeapi.co/api/v2/ability/89/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 167,
+      "nome": "spinarak",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "swarm",
+            "url": "https://pokeapi.co/api/v2/ability/68/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "insomnia",
+            "url": "https://pokeapi.co/api/v2/ability/15/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "sniper",
+            "url": "https://pokeapi.co/api/v2/ability/97/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 168,
+      "nome": "ariados",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "swarm",
+            "url": "https://pokeapi.co/api/v2/ability/68/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "insomnia",
+            "url": "https://pokeapi.co/api/v2/ability/15/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "sniper",
+            "url": "https://pokeapi.co/api/v2/ability/97/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 169,
+      "nome": "crobat",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "inner-focus",
+            "url": "https://pokeapi.co/api/v2/ability/39/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "infiltrator",
+            "url": "https://pokeapi.co/api/v2/ability/151/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 170,
+      "nome": "chinchou",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "volt-absorb",
+            "url": "https://pokeapi.co/api/v2/ability/10/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "illuminate",
+            "url": "https://pokeapi.co/api/v2/ability/35/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "water-absorb",
+            "url": "https://pokeapi.co/api/v2/ability/11/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 171,
+      "nome": "lanturn",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "volt-absorb",
+            "url": "https://pokeapi.co/api/v2/ability/10/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "illuminate",
+            "url": "https://pokeapi.co/api/v2/ability/35/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "water-absorb",
+            "url": "https://pokeapi.co/api/v2/ability/11/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 172,
+      "nome": "pichu",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "static",
+            "url": "https://pokeapi.co/api/v2/ability/9/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "lightning-rod",
+            "url": "https://pokeapi.co/api/v2/ability/31/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 173,
+      "nome": "cleffa",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "cute-charm",
+            "url": "https://pokeapi.co/api/v2/ability/56/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "magic-guard",
+            "url": "https://pokeapi.co/api/v2/ability/98/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "friend-guard",
+            "url": "https://pokeapi.co/api/v2/ability/132/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 174,
+      "nome": "igglybuff",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "cute-charm",
+            "url": "https://pokeapi.co/api/v2/ability/56/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "competitive",
+            "url": "https://pokeapi.co/api/v2/ability/172/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "friend-guard",
+            "url": "https://pokeapi.co/api/v2/ability/132/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 175,
+      "nome": "togepi",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "hustle",
+            "url": "https://pokeapi.co/api/v2/ability/55/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "serene-grace",
+            "url": "https://pokeapi.co/api/v2/ability/32/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "super-luck",
+            "url": "https://pokeapi.co/api/v2/ability/105/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 176,
+      "nome": "togetic",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "hustle",
+            "url": "https://pokeapi.co/api/v2/ability/55/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "serene-grace",
+            "url": "https://pokeapi.co/api/v2/ability/32/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "super-luck",
+            "url": "https://pokeapi.co/api/v2/ability/105/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 177,
+      "nome": "natu",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "synchronize",
+            "url": "https://pokeapi.co/api/v2/ability/28/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "early-bird",
+            "url": "https://pokeapi.co/api/v2/ability/48/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "magic-bounce",
+            "url": "https://pokeapi.co/api/v2/ability/156/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 178,
+      "nome": "xatu",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "synchronize",
+            "url": "https://pokeapi.co/api/v2/ability/28/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "early-bird",
+            "url": "https://pokeapi.co/api/v2/ability/48/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "magic-bounce",
+            "url": "https://pokeapi.co/api/v2/ability/156/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 179,
+      "nome": "mareep",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "static",
+            "url": "https://pokeapi.co/api/v2/ability/9/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "plus",
+            "url": "https://pokeapi.co/api/v2/ability/57/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 180,
+      "nome": "flaaffy",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "static",
+            "url": "https://pokeapi.co/api/v2/ability/9/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "plus",
+            "url": "https://pokeapi.co/api/v2/ability/57/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 181,
+      "nome": "ampharos",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "static",
+            "url": "https://pokeapi.co/api/v2/ability/9/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "plus",
+            "url": "https://pokeapi.co/api/v2/ability/57/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 182,
+      "nome": "bellossom",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "chlorophyll",
+            "url": "https://pokeapi.co/api/v2/ability/34/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "healer",
+            "url": "https://pokeapi.co/api/v2/ability/131/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 183,
+      "nome": "marill",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "thick-fat",
+            "url": "https://pokeapi.co/api/v2/ability/47/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "huge-power",
+            "url": "https://pokeapi.co/api/v2/ability/37/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "sap-sipper",
+            "url": "https://pokeapi.co/api/v2/ability/157/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 184,
+      "nome": "azumarill",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "thick-fat",
+            "url": "https://pokeapi.co/api/v2/ability/47/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "huge-power",
+            "url": "https://pokeapi.co/api/v2/ability/37/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "sap-sipper",
+            "url": "https://pokeapi.co/api/v2/ability/157/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 185,
+      "nome": "sudowoodo",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "sturdy",
+            "url": "https://pokeapi.co/api/v2/ability/5/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "rock-head",
+            "url": "https://pokeapi.co/api/v2/ability/69/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "rattled",
+            "url": "https://pokeapi.co/api/v2/ability/155/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 186,
+      "nome": "politoed",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "water-absorb",
+            "url": "https://pokeapi.co/api/v2/ability/11/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "damp",
+            "url": "https://pokeapi.co/api/v2/ability/6/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "drizzle",
+            "url": "https://pokeapi.co/api/v2/ability/2/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 187,
+      "nome": "hoppip",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "chlorophyll",
+            "url": "https://pokeapi.co/api/v2/ability/34/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "leaf-guard",
+            "url": "https://pokeapi.co/api/v2/ability/102/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "infiltrator",
+            "url": "https://pokeapi.co/api/v2/ability/151/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 188,
+      "nome": "skiploom",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "chlorophyll",
+            "url": "https://pokeapi.co/api/v2/ability/34/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "leaf-guard",
+            "url": "https://pokeapi.co/api/v2/ability/102/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "infiltrator",
+            "url": "https://pokeapi.co/api/v2/ability/151/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 189,
+      "nome": "jumpluff",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "chlorophyll",
+            "url": "https://pokeapi.co/api/v2/ability/34/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "leaf-guard",
+            "url": "https://pokeapi.co/api/v2/ability/102/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "infiltrator",
+            "url": "https://pokeapi.co/api/v2/ability/151/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 190,
+      "nome": "aipom",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "run-away",
+            "url": "https://pokeapi.co/api/v2/ability/50/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "pickup",
+            "url": "https://pokeapi.co/api/v2/ability/53/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "skill-link",
+            "url": "https://pokeapi.co/api/v2/ability/92/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 191,
+      "nome": "sunkern",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "chlorophyll",
+            "url": "https://pokeapi.co/api/v2/ability/34/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "solar-power",
+            "url": "https://pokeapi.co/api/v2/ability/94/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "early-bird",
+            "url": "https://pokeapi.co/api/v2/ability/48/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 192,
+      "nome": "sunflora",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "chlorophyll",
+            "url": "https://pokeapi.co/api/v2/ability/34/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "solar-power",
+            "url": "https://pokeapi.co/api/v2/ability/94/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "early-bird",
+            "url": "https://pokeapi.co/api/v2/ability/48/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 193,
+      "nome": "yanma",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "speed-boost",
+            "url": "https://pokeapi.co/api/v2/ability/3/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "compound-eyes",
+            "url": "https://pokeapi.co/api/v2/ability/14/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "frisk",
+            "url": "https://pokeapi.co/api/v2/ability/119/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 194,
+      "nome": "wooper",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "damp",
+            "url": "https://pokeapi.co/api/v2/ability/6/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "water-absorb",
+            "url": "https://pokeapi.co/api/v2/ability/11/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "unaware",
+            "url": "https://pokeapi.co/api/v2/ability/109/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 195,
+      "nome": "quagsire",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "damp",
+            "url": "https://pokeapi.co/api/v2/ability/6/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "water-absorb",
+            "url": "https://pokeapi.co/api/v2/ability/11/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "unaware",
+            "url": "https://pokeapi.co/api/v2/ability/109/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 196,
+      "nome": "espeon",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "synchronize",
+            "url": "https://pokeapi.co/api/v2/ability/28/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "magic-bounce",
+            "url": "https://pokeapi.co/api/v2/ability/156/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 197,
+      "nome": "umbreon",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "synchronize",
+            "url": "https://pokeapi.co/api/v2/ability/28/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "inner-focus",
+            "url": "https://pokeapi.co/api/v2/ability/39/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 198,
+      "nome": "murkrow",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "insomnia",
+            "url": "https://pokeapi.co/api/v2/ability/15/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "super-luck",
+            "url": "https://pokeapi.co/api/v2/ability/105/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "prankster",
+            "url": "https://pokeapi.co/api/v2/ability/158/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 199,
+      "nome": "slowking",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "oblivious",
+            "url": "https://pokeapi.co/api/v2/ability/12/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "ability": {
+            "name": "own-tempo",
+            "url": "https://pokeapi.co/api/v2/ability/20/"
+          },
+          "is_hidden": false,
+          "slot": 2
+        },
+        {
+          "ability": {
+            "name": "regenerator",
+            "url": "https://pokeapi.co/api/v2/ability/144/"
+          },
+          "is_hidden": true,
+          "slot": 3
+        }
+      ]
+    },
+    {
+      "id": 200,
+      "nome": "misdreavus",
+      "habilidade": [
+        {
+          "ability": {
+            "name": "levitate",
+            "url": "https://pokeapi.co/api/v2/ability/26/"
+          },
+          "is_hidden": false,
+          "slot": 1
+        }
+      ]
+    }
+  ]
+}

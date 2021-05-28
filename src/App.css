@@ -1,0 +1,94 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #16384c;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 10px;
+  width: 100%;
+}
+
+.container .card {
+  max-width: 450px;
+  height: 220px;
+  margin: 30px 10px;
+  padding: 20px 15px;
+  display: flex;
+  border-radius: 50px;
+  flex-direction: column;
+  background: transparent;
+  box-shadow: 0 5px 202px rgba(0,0,0,0.5);
+  transition: 0.3s ease-in-out;
+}
+
+.container .card:hover {
+  height: 420px;
+}
+
+.container .card .imgBx {
+  position: relative;
+  top: -10px;
+  left: 60px;
+  z-index: 1;
+  /* border-radius: 50px; */
+}
+
+.container .card .imgBx img { 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 200px;
+  /* box-shadow: 0 5px 20px rgba(0,0,0,0.2); */
+}
+
+.container .card .content {
+  position: relative;
+  margin-top: -140px;
+  padding: 10px 15px;
+  text-align: center;
+  color: #111;
+  visibility: hidden;
+  opacity: 0;
+  transition: 0.3s ease-in-out;
+}
+
+.container .card .content h2 {
+  text-transform: capitalize;
+}
+
+.container .card .content .header-content {
+  display: flex;
+  justify-content: space-evenly;
+  width: 300px;
+}
+
+.container .card .content .header-content h3 {
+  margin-top: 1.5rem;
+}
+
+.container .card .content .body-content p {
+  position: relative;
+  top: 55px;
+  left: -115px;
+  margin-left: 5.5rem;
+}
+
+.container .card .content .body-content h3{
+  position: relative;
+  top: -10px;
+  left: 80px;
+  text-transform: capitalize;
+}
+
+.container .card:hover .content {
+  visibility: visible;
+  opacity: 1;
+  margin-top: -40px;
+  transition-delay: 0.2s;
+}
