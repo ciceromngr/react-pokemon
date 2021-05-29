@@ -1,94 +1,175 @@
-body {
+section
+{
   display: flex;
   justify-content: center;
   align-items: center;
-  background: #16384c;
+  min-height: 100vh;
+  background: #232323;
+  overflow: hidden;
+  padding: 100px 20px;
+  box-sizing: border-box;
+  flex-wrap: wrap;
 }
 
-.container {
+section::before
+{
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: #ef3b36;
+  clip-path: circle(65% at 100% -20%);
+}
+
+section::after
+{
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: #47aafa;
+  clip-path: circle(35% at 0% 100%);
+}
+
+.container
+{
+  position: relative;
+  z-index: 10;
   display: flex;
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
-  padding: 10px;
-  width: 100%;
 }
 
-.container .card {
-  max-width: 450px;
-  height: 220px;
-  margin: 30px 10px;
-  padding: 20px 15px;
-  display: flex;
-  border-radius: 50px;
-  flex-direction: column;
-  background: transparent;
-  box-shadow: 0 5px 202px rgba(0,0,0,0.5);
-  transition: 0.3s ease-in-out;
-}
-
-.container .card:hover {
-  height: 420px;
-}
-
-.container .card .imgBx {
+.container .card 
+{
   position: relative;
-  top: -10px;
-  left: 60px;
-  z-index: 1;
-  /* border-radius: 50px; */
-}
-
-.container .card .imgBx img { 
+  width: 300px;
+  height: 400px;
+  margin: 20px 40px;
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 200px;
-  /* box-shadow: 0 5px 20px rgba(0,0,0,0.2); */
+  flex-direction: column;
+  background: rgba(255, 255, 255, 0.2);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+  border-radius: 25px;
+  backdrop-filter: blur(85px);
 }
 
-.container .card .content {
+.container .card .imgBx
+{
   position: relative;
-  margin-top: -140px;
-  padding: 10px 15px;
-  text-align: center;
-  color: #111;
-  visibility: hidden;
-  opacity: 0;
-  transition: 0.3s ease-in-out;
-}
-
-.container .card .content h2 {
-  text-transform: capitalize;
-}
-
-.container .card .content .header-content {
   display: flex;
-  justify-content: space-evenly;
-  width: 300px;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 20px;
+  transition: 0.5s ease-in-out;
 }
 
-.container .card .content .header-content h3 {
-  margin-top: 1.5rem;
+.container .card:hover .imgBx
+{
+  transform: translateY(-90px);
 }
 
-.container .card .content .body-content p {
-  position: relative;
-  top: 55px;
-  left: -115px;
-  margin-left: 5.5rem;
+.container .card .imgBx img
+{
+  max-width: 100%;
+  height: 150px;
+  /* margin: 0 0 20px; */
+  transition: 0.5s ease-in-out;
 }
 
-.container .card .content .body-content h3{
-  position: relative;
-  top: -10px;
-  left: 80px;
+.container .card:hover .imgBx img
+{
+  transform: translate(-20px, -40px) rotate(-15deg) scale(1.4);
+  transition: 0.5s ease-in-out;
+}
+
+.container .card .imgBx h2
+{
+  color: #fff;
+  font-weight: 600;
   text-transform: capitalize;
 }
 
-.container .card:hover .content {
-  visibility: visible;
+.container .card .content
+{
+  position: absolute;
+  bottom: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  transition: 0.5s ease-in-out;
+  opacity: 0;
+  visibility: hidden;
+}
+
+.container .card .content .informacao
+{  
+  flex-direction: column;
+}
+
+.container .card .content .idPoke
+{
+  margin-bottom: -32px;
+}
+
+.container .card .content .idPoke,
+.container .card .content .informacao
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 8px 20px;
+}
+
+.container .card .content .idPoke h3,
+.container .card .content .informacao h3
+{
+  color: #fff;
+  font-weight: 300;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin-right: 10px;
+}
+
+
+.container .card .content .idPoke span
+{
+  width: 26px;
+  height: 21px;
+  text-align: center;
+  display: inline-block;
+  color: #111;
+  background: #fff;
+  margin: 0 5px;
+  border-radius: 5px;
+  font-size: 14px;
+  font-weight: 500;
+  transition: 0.5s;
+  padding: 5px 0 0 ;
+}
+
+.container .card .content .informacao span
+{
+  text-transform: capitalize;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 500;
+  transition: 0.5s;
+}
+
+.container .card:hover .content
+{
   opacity: 1;
-  margin-top: -40px;
-  transition-delay: 0.2s;
+  visibility: visible;
+  transform: translateY(-50px);
 }
